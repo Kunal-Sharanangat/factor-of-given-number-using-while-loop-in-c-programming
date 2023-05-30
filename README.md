@@ -1,0 +1,1 @@
+# factor-of-given-number-using-while-loop-in-c-programming
